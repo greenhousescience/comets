@@ -1,0 +1,2 @@
+Comet Length (px)	Comet Height (px) 	Comet Area (px)	Comet Intensity	Comet Mean Intensity	Head Diameter (px)	Head Area (px)	Head Intensity	Head Mean Intensity	%DNA in Head	Tail Length (px)	Tail Area (px)	Tail Intensity	Tail Mean Intensity	%DNA in Tail	Tail Moment	Olive Moment
+373.000000		264.000000		74761.000000	3632232.000000	48.584583		138.000000		22216.000000	1060344.000000	47.728844		29.192629	235.000000		52545.000000	2571888.000000	48.946388		70.807374	166.397324	107.400734

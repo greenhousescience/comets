@@ -1,0 +1,20 @@
+gy1a
+No. 0
+229-597 : 454-713
+Comet Length          368
+Comet Height          259
+Comet Area            70906
+Total Comet Intensity 3493225
+Mean Comet Intensity  49.2656
+Head Diameter         136
+Head Area             16098
+Total Head Intensity  830412
+Mean Head Intensity   51.5848
+%DNA in Head          23.7721
+Tail Length           232
+Tail Area             49107
+Total Tail Intensity  2662813
+Mean Tail Intensity   54.2247
+%DNA in Tail          76.2279
+Tail Moment           176.849
+Olive Moment          115.204
